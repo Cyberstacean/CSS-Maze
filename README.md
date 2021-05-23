@@ -44,7 +44,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.arcadetoken.net/josh/maze/1/)
 
-This was an idea to play with CSS animations. THe original Idea was to have sperate rooms that would showcase different CSS animation. Currently there is only 1 room, an Ocean view. 
+This was an idea to play with CSS animations. The original Idea was to have sperate rooms that would showcase different CSS animation. Currently there is only 1 room, an Ocean view. 
 
 ### Built With
 
